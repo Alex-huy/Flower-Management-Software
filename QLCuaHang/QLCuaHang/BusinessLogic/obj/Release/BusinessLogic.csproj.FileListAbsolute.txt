@@ -1,0 +1,9 @@
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Release\BusinessLogic.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Release\BusinessLogic.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Release\DataAccess.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Release\DataAccess.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Release\BusinessLogic.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Release\BusinessLogic.pdb

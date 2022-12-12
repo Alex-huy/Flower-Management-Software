@@ -1,0 +1,27 @@
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\nguoi\Desktop\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\BusinessLogic\obj\Debug\BusinessLogic.pdb

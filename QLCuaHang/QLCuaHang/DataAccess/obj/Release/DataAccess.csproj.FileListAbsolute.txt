@@ -1,0 +1,6 @@
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\bin\Release\DataAccess.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\bin\Release\DataAccess.pdb
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\obj\Release\DataAccess.csproj.AssemblyReference.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\obj\Release\DataAccess.dll
+D:\TDT Assignments\Công nghệ phần mềm\Cuối kì\Web\QLCuaHang\QLCuaHang\DataAccess\obj\Release\DataAccess.pdb
